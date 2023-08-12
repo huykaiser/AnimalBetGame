@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/animalbet-game/static/css/main.665ee6c7.css",
-    "main.js": "/animalbet-game/static/js/main.48be7495.js",
-    "static/js/787.26657fd4.chunk.js": "/animalbet-game/static/js/787.26657fd4.chunk.js",
-    "static/media/Pony.ttf": "/animalbet-game/static/media/Pony.99ddd1e5ee531d1eb8a2.ttf",
-    "index.html": "/animalbet-game/index.html",
-    "main.665ee6c7.css.map": "/animalbet-game/static/css/main.665ee6c7.css.map",
-    "main.48be7495.js.map": "/animalbet-game/static/js/main.48be7495.js.map",
-    "787.26657fd4.chunk.js.map": "/animalbet-game/static/js/787.26657fd4.chunk.js.map"
+    "main.css": "/AnimalBetGame/static/css/main.0cfec2f2.css",
+    "main.js": "/AnimalBetGame/static/js/main.a08449d5.js",
+    "static/js/787.26657fd4.chunk.js": "/AnimalBetGame/static/js/787.26657fd4.chunk.js",
+    "static/media/Pony.ttf": "/AnimalBetGame/static/media/Pony.99ddd1e5ee531d1eb8a2.ttf",
+    "index.html": "/AnimalBetGame/index.html",
+    "main.0cfec2f2.css.map": "/AnimalBetGame/static/css/main.0cfec2f2.css.map",
+    "main.a08449d5.js.map": "/AnimalBetGame/static/js/main.a08449d5.js.map",
+    "787.26657fd4.chunk.js.map": "/AnimalBetGame/static/js/787.26657fd4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.665ee6c7.css",
-    "static/js/main.48be7495.js"
+    "static/css/main.0cfec2f2.css",
+    "static/js/main.a08449d5.js"
   ]
 }
